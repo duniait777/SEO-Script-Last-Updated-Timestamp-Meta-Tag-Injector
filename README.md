@@ -1,4 +1,4 @@
-# Last Updated Timestamp Meta Tag Injector
+# SEO script Last Updated Timestamp Meta Tag Injector
 
 ## Deskripsi
 script ini bertujuan untuk secara otomatis menyuntikkan meta tag yang menunjukkan waktu terakhir halaman web diperbarui. Dengan menambahkan informasi ini ke dalam elemen `<head>` dokumen HTML, pengguna dan mesin pencari dapat dengan mudah mengetahui kapan konten terakhir dimodifikasi.
@@ -19,3 +19,6 @@ Tempatkan sebelum tag </head>
 Jika script ini bermanfaat silakan berdonasi ke:
 Gopay 0819-5364-7774
 Dana 0858-800-24-800
+
+# License
+MIT License
