@@ -13,12 +13,12 @@ c ini terdiri dari dua fungsi utama:
 - **injectMetaTag()**: Menambahkan meta tag `last-updated` ke dalam dokumen HTML.
 
 ## Cara Menggunakan
-<script src="script.js"></script>
+<blockquote><script src="script.js"></script></blockquote>
 Tempatkan sebelum tag </head>
 
 Jika script ini bermanfaat silakan berdonasi ke:
-Gopay 0819-5364-7774
-Dana 0858-800-24-800
+<br/>Gopay 0819-5364-7774
+<br/>Dana 0858-800-24-800
 
 # License
 MIT License
